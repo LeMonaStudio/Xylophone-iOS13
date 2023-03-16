@@ -17,7 +17,7 @@ You will be making your first musical instrument! Music apps are so popular on t
 * Code refactoring.
 * Basic debugging.
 
-## Code
+## The Code
 
 When each key is clicked to play the saved .wav file, the following code is triggered to call the playSound() function. The alpha attribute of the 
 key is set to half and they set back to max using delay in the main thread.
